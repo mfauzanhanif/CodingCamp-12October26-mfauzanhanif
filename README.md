@@ -94,8 +94,8 @@ Double-click `index.html` or drag and drop it into any modern web browser (Chrom
 
 Proyek ini telah dideploy dan aktif menggunakan **GitHub Pages** melalui branch `main`:
 
-- 🔗 **Live Website:** [https://mfauzanhanif.github.io/mfauzanhanif-CodingCamp-12Octobert26-fauzanhanif/](https://mfauzanhanif.github.io/mfauzanhanif-CodingCamp-12Octobert26-fauzanhanif/)
-- 📦 **Repository GitHub:** [https://github.com/mfauzanhanif/mfauzanhanif-CodingCamp-12Octobert26-fauzanhanif](https://github.com/mfauzanhanif/mfauzanhanif-CodingCamp-12Octobert26-fauzanhanif)
+- 🔗 **Live Website:** [https://mfauzanhanif.github.io/CodingCamp-12October26-mfauzanhanif](https://mfauzanhanif.github.io/CodingCamp-12October26-mfauzanhanif)
+- 📦 **Repository GitHub:** [https://github.com/mfauzanhanif/CodingCamp-12October26-mfauzanhanif](https://github.com/mfauzanhanif/CodingCamp-12October26-mfauzanhanif)
 - 🌿 **Deployment Branch:** `main` (folder `/root`)
 
 ### Panduan Deployment
@@ -117,4 +117,5 @@ Proyek ini telah dideploy dan aktif menggunakan **GitHub Pages** melalui branch 
 ---
 
 ## 📄 License
+
 This project is open-source and available under the [MIT License](LICENSE).
